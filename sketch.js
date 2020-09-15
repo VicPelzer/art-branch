@@ -5,7 +5,7 @@ function setup() {
   print("dit is de setup in de print functie");
 
   ellipseMode(CENTER);
-  ellipse(100, 100, 200, 200);
+  ellipse(10, 10, 10, 10);
   fill(255,0,0);
   rect(100,100,20,20);
 
